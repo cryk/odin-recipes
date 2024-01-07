@@ -1,1 +1,3 @@
 # odin-recipes
+
+This project was done in order to teach me beginner html. I have also started practicing using github, and getting my first commits pushed to the site. I Think I did a good job, and I am looking forward to continuing with the Odin Project. My goals for this course are to learn how to competently make a website. I have studied programming in the past, so I am most looking forward to the coding sections.
